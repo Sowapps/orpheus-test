@@ -1,5 +1,5 @@
 
-/* JS common sources for you WORK IN PROGRESS ORPHEUS PACKAGE */
+/* JS common sources for ORPHEUS TEST PACKAGE */
 
 /*
  * Dawn this melody is great !
